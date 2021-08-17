@@ -1,0 +1,6 @@
+13:49:05.073 [main] ERROR testcases.BaseClass - HEllo 
+13:49:05.915 [main] ERROR testcases.BaseClass - Chrome Driver is initiated
+13:49:12.981 [main] INFO  testcases.BaseClass - Got the base URL
+13:49:14.218 [main] ERROR testcases.BaseClass - this is landing page
+13:49:15.821 [main] ERROR testcases.BaseClass - Wrong URL of dashboard
+13:49:22.658 [main] ERROR testcases.BaseClass - Navigation failed correct url should behttps://www.easyweddings.com.au/login/

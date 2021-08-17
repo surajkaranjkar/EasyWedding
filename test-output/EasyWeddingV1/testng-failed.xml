@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [EasyWeddingV1]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="CHROME(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testcases.Tc_Signupuser_004">
+        <methods>
+          <include name="tearDown"/>
+          <include name="signupuser"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testcases.Tc_Signupuser_004 -->
+    </classes>
+  </test> <!-- CHROME(failed) -->
+</suite> <!-- Failed suite [EasyWeddingV1] -->

@@ -1,0 +1,8 @@
+09:26:59.733 [main] ERROR testcases.BaseClass - HEllo 
+09:27:00.571 [main] ERROR testcases.BaseClass - Chrome Driver is initiated
+09:27:05.119 [main] INFO  testcases.BaseClass - Got the base URL
+09:28:03.900 [main] ERROR testcases.BaseClass - HEllo 
+09:28:04.715 [main] ERROR testcases.BaseClass - Chrome Driver is initiated
+09:28:08.503 [main] INFO  testcases.BaseClass - Got the base URL
+09:28:19.332 [main] INFO  testcases.BaseClass - TEST CASE IS PASS
+09:28:44.583 [main] ERROR testcases.BaseClass - HEllo 
