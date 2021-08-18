@@ -23,7 +23,7 @@ public void scrolldown() throws InterruptedException {
 	s.setPassword().sendKeys(r.password());
 	s.clickSignIn().click();
 	System.out.println(driver.getCurrentUrl());
-	
+	System.out.println("adadadsfsaf");
 	Thread.sleep(3000);
 	//WebElement elements=driver.findElement(By.xpath("//a[@class='ew-readmore btn-primary']"));
 	driver.findElement(By.xpath("//img[@title='Easy Weddings']")).click();
