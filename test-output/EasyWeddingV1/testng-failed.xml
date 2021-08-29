@@ -4,13 +4,13 @@
   <test thread-count="5" name="CHROME(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testcases.Tc_Signupuser_004">
+      <class name="testcases.FramesWebcdrm">
         <methods>
           <include name="tearDown"/>
-          <include name="signupuser"/>
+          <include name="frames"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testcases.Tc_Signupuser_004 -->
+      </class> <!-- testcases.FramesWebcdrm -->
     </classes>
   </test> <!-- CHROME(failed) -->
 </suite> <!-- Failed suite [EasyWeddingV1] -->

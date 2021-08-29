@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.Tc_Signin_002">
+      <class name="testcases.FramesWebcdrm">
         <methods>
-          <include name="signin"/>
           <include name="tearDown"/>
+          <include name="frames"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testcases.Tc_Signin_002 -->
+      </class> <!-- testcases.FramesWebcdrm -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
