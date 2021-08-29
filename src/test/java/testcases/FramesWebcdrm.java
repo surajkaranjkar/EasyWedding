@@ -14,9 +14,12 @@ public class FramesWebcdrm extends BaseClass{
 		driver.findElement(By.id("crm-login-form-submit")).click();
 		driver.get("https://wedcrm.com/54k9cn4yw/salesleads/1029139/");
 		driver.findElement(By.xpath("//button[@id='btnReplyWithTemplate']")).click();
-       driver.switchTo().frame("txtEmailBody_ifr");
+		driver.switchTo().frame(driver.findElement(By.id("txtEmailBody_ifr")));
+		//driver.switchTo().frame("txtEmailBody_ifr");
         driver.findElement(By.id("tinymce")).sendKeys("skklsjfklsjflsajf");
         Thread.sleep(10000);
-	
+	   driver.switchTo().defaultContent();
+	   driver.findElement(By.id("btnRplyEnquiry")).click();
+	   
 	}
 }
