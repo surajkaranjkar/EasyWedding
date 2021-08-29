@@ -1,8 +1,8 @@
-08:36:28.099 [main] ERROR testcases.BaseClass - HEllo 
-08:36:28.954 [main] ERROR testcases.BaseClass - Chrome Driver is initiated
-08:36:33.274 [main] INFO  testcases.BaseClass - Got the base URL
-08:42:32.089 [main] ERROR testcases.BaseClass - HEllo 
-08:42:32.991 [main] ERROR testcases.BaseClass - Chrome Driver is initiated
-08:42:35.570 [main] INFO  testcases.BaseClass - Got the base URL
-08:43:33.948 [main] ERROR testcases.BaseClass - HEllo 
-08:43:34.889 [main] ERROR testcases.BaseClass - Chrome Driver is initiated
+08:43:37.299 [main] INFO  testcases.BaseClass - Got the base URL
+11:07:57.345 [main] ERROR testcases.BaseClass - HEllo 
+11:07:58.527 [main] ERROR testcases.BaseClass - Chrome Driver is initiated
+11:08:01.033 [main] INFO  testcases.BaseClass - Got the base URL
+11:11:48.409 [main] ERROR testcases.BaseClass - HEllo 
+11:11:49.365 [main] ERROR testcases.BaseClass - Chrome Driver is initiated
+11:11:51.813 [main] INFO  testcases.BaseClass - Got the base URL
+13:28:19.488 [main] ERROR testcases.BaseClass - HEllo 
